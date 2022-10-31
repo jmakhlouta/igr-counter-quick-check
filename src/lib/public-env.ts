@@ -1,0 +1,1 @@
+export const IGRC_API_BASE_URL = import.meta.env.VITE_IGRC_API_BASE_URL;
